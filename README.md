@@ -6,4 +6,4 @@
 
 https://en.wikipedia.org/wiki/Eight_queens_puzzle
 
-This program find 11 solutions.
+This program finds 11 solutions.
